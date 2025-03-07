@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RecurrenceDate.Test/bin/Debug/net8.0
+/RecurrenceDate.Test/obj
+/.vs/RecurrenceDate
+/RecurrenceDate/bin/Debug/net8.0
+/RecurrenceDate/obj
