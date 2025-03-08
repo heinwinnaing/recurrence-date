@@ -7,3 +7,5 @@
 /.vs/RecurrenceDate
 /RecurrenceDate/bin/Debug/net8.0
 /RecurrenceDate/obj
+/.vs/ProjectEvaluation
+*.sln
